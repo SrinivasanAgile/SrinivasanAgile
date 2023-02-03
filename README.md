@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SrinivasanAgile
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Git with interest to learn merging and branching strategies
+- 👀 I’m interested in Software development and Cloud Native solutions
 - 💞️ I’m looking to collaborate on Github
 - 
 Adding this line
