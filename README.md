@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SrinivasanAgile
-- 👀 I’m interested in Software development and Cloud Native solutions
+# Hi 👋, I'm Srinivasan Chinnachamy aka Srini👨🏻‍🎓
+
+
+## About Me:
+- 👨🏻‍💻 I am an AWS Cloud Architect, Working with PriceWaterhouseCoopers
+- 🎢 With over 8+ years of dedicated IT expertise, I bring a wealth of experience coupled with strong analytical and technical leadership skills to the table.
+- 📚 Believes in continuous upskilling with new set of tools and technologies
+- ☁️ Passionate in cloud computing and DevOps concept
 - 💞️ I’m looking to collaborate on Github
-- 
-Adding this line
-last line
-<!---
-SrinivasanAgile/SrinivasanAgile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
